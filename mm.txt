@@ -1,0 +1,22 @@
+### `Analytical Questions`
+__Question 1__ : `Churn Rate Over Time`: How does the churn rate vary over different time periods (e.g., months or years)? Are there any seasonal trends in churn rate?
+
+**Question 2** : `Churn Rate by Contract Type`: What is the churn rate for different contract types (e.g., monthly, yearly, or bi-yearly)? Visualize the churn rate distribution among different contract types.
+
+**Question 3**: `Distribution of Monthly Charges`: What is the distribution of monthly charges among customers who churned versus those who did not churn? Are there any significant differences in the distribution?
+
+**Question 4**: `Customer Tenure vs. Churn Rate`: How does the tenure of customers relate to the churn rate? Plot the churn rate against the tenure of customers.
+
+**Question 5**: `Impact of Additional Services`: Visualize the churn rate for customers who have additional services like Online Security, Online Backup, etc. How do these services affect customer retention?
+
+**Question 6**: `Churn Rate by Payment Method`: Is there any correlation between the payment method chosen by customers and their likelihood to churn? Visualize the churn rate for different payment methods.
+
+**Question 7**: `Gender and Churn Rate`: Explore if there's any significant difference in churn rate based on gender. Visualize the churn rate distribution for male and female customers.
+
+**Question 8**: `Customer Demographics and Churn`: Investigate if senior citizens, customers with partners, or customers with dependents are more likely to churn. Visualize the churn rate for these demographics.
+
+**Question 9**: `Correlation Matrix`:Is there any correlation between these numeric features and the target variable, churn?
+
+**Question 10**: What are the most common payment methods?
+
+**Question 11**: What types of contracts are most common among customers?
