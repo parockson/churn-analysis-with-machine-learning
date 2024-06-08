@@ -231,7 +231,7 @@ This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p> align="right">(<a href="https://medium.com/@parockson">Link to Article</a>)</p>
+<p align="right">(<a href="https://medium.com/@parockson">Link to Article</a>)</p>
 
 
 
